@@ -5,6 +5,19 @@
 #import "XMPPIDTracker.h"
 #import "XMPPSRVResolver.h"
 #import "NSData+XMPP.h"
+#import "XMPPJID.h"
+#import "XMPPIQ.h"
+#import "XMPPStream.h"
+#import "XMPPAnonymousAuthentication.h"
+#import "XMPPDeprecatedDigestAuthentication.h"
+#import "XMPPDeprecatedPlainAuthentication.h"
+#import "XMPPDigestMD5Authentication.h"
+#import "XMPPPlainAuthentication.h"
+#import "XMPPSCRAMSHA1Authentication.h"
+#import "XMPPXOAuth2Google.h"
+#import "NSXMLElement+XMPP.h"
+#import "XMPPMessage.h"
+#import "XMPPPresence.h"
 
 #import <objc/runtime.h>
 #import <libkern/OSAtomic.h>

@@ -1,4 +1,7 @@
 #import "XMPP.h"
+#import "XMPPModule.h"
+#import "XMPPPresence.h"
+#import "XMPPMessage.h"
 
 NS_ASSUME_NONNULL_BEGIN
 

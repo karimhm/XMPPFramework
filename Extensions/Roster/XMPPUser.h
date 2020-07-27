@@ -1,5 +1,6 @@
 #import <Foundation/Foundation.h>
 #import "XMPP.h"
+#import "XMPPJID.h"
 
 @protocol XMPPResource;
 

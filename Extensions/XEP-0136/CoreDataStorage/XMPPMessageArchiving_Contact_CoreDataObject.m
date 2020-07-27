@@ -1,5 +1,5 @@
 #import "XMPPMessageArchiving_Contact_CoreDataObject.h"
-
+#import "XMPPJID.h"
 
 @interface XMPPMessageArchiving_Contact_CoreDataObject ()
 

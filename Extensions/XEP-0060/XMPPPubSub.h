@@ -1,5 +1,8 @@
 #import <Foundation/Foundation.h>
 #import "XMPP.h"
+#import "XMPPModule.h"
+#import "XMPPMessage.h"
+#import "XMPPIQ.h"
 
 #define _XMPP_PUB_SUB_H
 

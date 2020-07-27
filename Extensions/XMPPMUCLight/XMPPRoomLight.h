@@ -9,6 +9,11 @@
 #import "XMPP.h"
 #import "XMPPIDTracker.h"
 #import "XMPPJID.h"
+#import "XMPPModule.h"
+#import "XMPPMessage.h"
+#import "XMPPIQ.h"
+
+@import KissXML;
 
 @protocol XMPPRoomLightStorage;
 

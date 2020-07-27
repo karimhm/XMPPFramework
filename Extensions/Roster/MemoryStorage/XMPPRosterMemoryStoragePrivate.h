@@ -1,6 +1,8 @@
 #import "XMPPUserMemoryStorageObject.h"
 #import "XMPPResourceMemoryStorageObject.h"
 
+@import KissXML;
+
 /**
  * The following methods are designed to be invoked ONLY from
  * within the XMPPRosterMemoryStorage implementation.

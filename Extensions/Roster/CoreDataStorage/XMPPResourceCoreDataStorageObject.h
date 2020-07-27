@@ -1,6 +1,7 @@
 #import <Foundation/Foundation.h>
 #import <CoreData/CoreData.h>
 #import "XMPPResource.h"
+#import "XMPPPresence.h"
 
 @class XMPPStream;
 @class XMPPPresence;

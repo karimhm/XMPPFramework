@@ -15,8 +15,12 @@
 #import "XMPPOutgoingFileTransfer.h"
 #import "XMPPIDTracker.h"
 #import "XMPPConstants.h"
+#import "XMPPStream.h"
+#import "XMPPJID.h"
+#import "XMPPIQ.h"
 #import "NSNumber+XMPP.h"
 #import "NSData+XMPP.h"
+#import "NSXMLElement+XMPP.h"
 
 #if DEBUG
 static const int xmppLogLevel = XMPP_LOG_LEVEL_WARN; // XMPP_LOG_LEVEL_VERBOSE | XMPP_LOG_FLAG_TRACE;

@@ -1,5 +1,6 @@
 #import "XMPPBandwidthMonitor.h"
 #import "XMPPLogging.h"
+#import "XMPPStream.h"
 #import "NSXMLElement+XMPP.h"
 
 #if ! __has_feature(objc_arc)

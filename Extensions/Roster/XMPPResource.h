@@ -1,5 +1,6 @@
 #import <Foundation/Foundation.h>
 #import "XMPP.h"
+#import "XMPPPresence.h"
 
 NS_ASSUME_NONNULL_BEGIN
 @protocol XMPPResource

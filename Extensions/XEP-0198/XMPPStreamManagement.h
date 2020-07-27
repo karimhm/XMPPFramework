@@ -1,5 +1,9 @@
 #import <Foundation/Foundation.h>
 #import "XMPP.h"
+#import "XMPPModule.h"
+#import "XMPPCustomBinding.h"
+#import "XMPPElement.h"
+#import "XMPPStream.h"
 
 #define _XMPP_STREAM_MANAGEMENT_H
 

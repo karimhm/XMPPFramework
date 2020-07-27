@@ -13,6 +13,7 @@
 #import "XMPPIQ+OMEMO.h"
 #import "XMPPIQ+XEP_0060.h"
 #import "OMEMOModule.h"
+#import "NSXMLElement+XMPP.h"
 
 @implementation XMPPIQ (OMEMO)
 

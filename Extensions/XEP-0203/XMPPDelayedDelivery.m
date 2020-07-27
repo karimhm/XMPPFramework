@@ -1,6 +1,10 @@
 #import "XMPPDelayedDelivery.h"
 #import "XMPPLogging.h"
+#import "XMPPStream.h"
+#import "XMPPMessage.h"
 #import "NSXMLElement+XEP_0203.h"
+
+@import CocoaLumberjack;
 
 // Log levels: off, error, warn, info, verbose
 // Log flags: trace

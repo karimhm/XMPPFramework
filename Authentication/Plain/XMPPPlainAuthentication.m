@@ -2,6 +2,7 @@
 #import "XMPP.h"
 #import "XMPPLogging.h"
 #import "XMPPInternal.h"
+#import "XMPPJID.h"
 #import "NSData+XMPP.h"
 #import "NSXMLElement+XMPP.h"
 

@@ -7,6 +7,7 @@
 //
 
 #import "XMPP.h"
+#import "XMPPModule.h"
 #import "XMPPIQ+LastActivity.h"
 
 #define _XMPP_LAST_ACTIVITY_H

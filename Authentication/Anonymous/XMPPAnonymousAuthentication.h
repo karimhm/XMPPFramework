@@ -1,6 +1,7 @@
 #import <Foundation/Foundation.h>
 #import "XMPPSASLAuthentication.h"
 #import "XMPP.h"
+#import "XMPPStream.h"
 
 NS_ASSUME_NONNULL_BEGIN
 @interface XMPPAnonymousAuthentication : NSObject <XMPPSASLAuthentication>

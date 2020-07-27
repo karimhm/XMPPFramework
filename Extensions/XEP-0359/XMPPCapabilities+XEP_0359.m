@@ -6,11 +6,13 @@
 //  Copyright © 2017 Chris Ballinger. All rights reserved.
 //
 
+#import "XMPPStream.h"
 #import "XMPPCapabilities+XEP_0359.h"
 #import "XMPPMessage+XEP0045.h"
 #import "XMPPMessage+XEP_0359.h"
 #import "NSXMLElement+XEP_0359.h"
 #import "XMPPMessage+XEP_0184.h"
+#import "NSXMLElement+XMPP.h"
 
 @implementation XMPPCapabilities (XEP_0359)
 

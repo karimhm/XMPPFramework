@@ -9,6 +9,10 @@
 
 #import <Foundation/Foundation.h>
 #import "XMPP.h"
+#import "XMPPModule.h"
+#import "XMPPJID.h"
+
+@import KissXML;
 
 @class XMPPvCardTemp;
 @class XMPPIDTracker;

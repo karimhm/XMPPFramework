@@ -1,7 +1,7 @@
 #import <Foundation/Foundation.h>
 #import <CoreData/CoreData.h>
 #import "XMPP.h"
-
+#import "XMPPMessage.h"
 
 @interface XMPPMessageArchiving_Message_CoreDataObject : NSManagedObject
 

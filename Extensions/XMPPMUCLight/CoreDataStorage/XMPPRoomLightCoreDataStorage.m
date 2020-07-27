@@ -6,10 +6,11 @@
 //  Copyright © 2016 Inaka. All rights reserved.
 //
 
+#import "XMPPStream.h"
 #import "XMPPRoomLightCoreDataStorage.h"
 #import "XMPPCoreDataStorageProtected.h"
-#import "NSXMLElement+XEP_0203.h"
 #import "XMPPRoomLightMessageCoreDataStorageObject.h"
+#import "NSXMLElement+XEP_0203.h"
 
 @implementation XMPPRoomLightCoreDataStorage{
 	NSString *messageEntityName;

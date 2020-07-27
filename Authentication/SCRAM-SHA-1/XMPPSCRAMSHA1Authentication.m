@@ -11,8 +11,9 @@
 #import "XMPPLogging.h"
 #import "XMPPStream.h"
 #import "XMPPInternal.h"
-#import "NSData+XMPP.h"
 #import "XMPPStringPrep.h"
+#import "XMPPJID.h"
+#import "NSData+XMPP.h"
 
 #import <CommonCrypto/CommonKeyDerivation.h>
 

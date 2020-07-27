@@ -11,6 +11,7 @@
 #import "XMPPvCardTemp.h"
 #import "XMPPLogging.h"
 #import "XMPPDateTimeProfiles.h"
+#import "XMPPStream.h"
 #import "NSData+XMPP.h"
 
 #import <objc/runtime.h>

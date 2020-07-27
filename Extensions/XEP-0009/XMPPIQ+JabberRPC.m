@@ -8,6 +8,7 @@
 
 #import "XMPPIQ+JabberRPC.h"
 #import "XMPP.h"
+#import "XMPPStream.h"
 #import "NSData+XMPP.h"
 
 #if ! __has_feature(objc_arc)

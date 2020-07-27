@@ -10,8 +10,9 @@
 #import "XMPPLogging.h"
 #import "XMPPIDTracker.h"
 #import "XMPPCapabilities.h"
-#import "XMPPIQ+XEP_0357.h"
 #import "XMPPInternal.h"
+#import "XMPPIQ+XEP_0357.h"
+#import "NSXMLElement+XMPP.h"
 
 // Log levels: off, error, warn, info, verbose
 #if DEBUG

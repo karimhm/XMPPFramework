@@ -1,5 +1,8 @@
 #import <Foundation/Foundation.h>
 #import "XMPP.h"
+#import "XMPPModule.h"
+#import "XMPPJID.h"
+#import "XMPPIQ.h"
 
 #define _XMPP_TIME_H
 

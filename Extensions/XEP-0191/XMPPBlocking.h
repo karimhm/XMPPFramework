@@ -1,5 +1,6 @@
 #import <Foundation/Foundation.h>
 #import "XMPPModule.h"
+#import "XMPPJID.h"
 
 @import KissXML;
 

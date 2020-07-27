@@ -1,7 +1,11 @@
 #import "XMPP.h"
 #import "XMPPLogging.h"
 #import "XMPPCapabilities.h"
+#import "XMPPIQ.h"
+#import "XMPPPresence.h"
+#import "XMPPStream.h"
 #import "NSData+XMPP.h"
+#import "NSXMLElement+XMPP.h"
 
 #if ! __has_feature(objc_arc)
 #warning This file must be compiled with ARC. Use -fobjc-arc flag (or convert project to ARC).

@@ -9,6 +9,8 @@
 #import "XMPP.h"
 #import "XMPPUser.h"
 #import "XMPPResource.h"
+#import "XMPPModule.h"
+#import "XMPPStream.h"
 
 #define _XMPP_ROSTER_H
 

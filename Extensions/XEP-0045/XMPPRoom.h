@@ -2,6 +2,8 @@
 #import "XMPP.h"
 #import "XMPPRoomMessage.h"
 #import "XMPPRoomOccupant.h"
+#import "XMPPIQ.h"
+#import "XMPPModule.h"
 
 #define _XMPP_ROOM_H
 

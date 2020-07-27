@@ -9,6 +9,7 @@
 #import "XMPP.h"
 #import "XMPPCoreDataStorage.h"
 #import "XMPPRoomLight.h"
+#import "XMPPMessage.h"
 
 @interface XMPPRoomLightCoreDataStorage : XMPPCoreDataStorage <XMPPRoomLightStorage>
 

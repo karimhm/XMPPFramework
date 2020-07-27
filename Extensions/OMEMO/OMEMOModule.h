@@ -25,6 +25,7 @@
 #import "XMPPCapabilities.h"
 #import "OMEMOBundle.h"
 #import "OMEMOKeyData.h"
+#import "XMPPStream.h"
 
 NS_ASSUME_NONNULL_BEGIN
 

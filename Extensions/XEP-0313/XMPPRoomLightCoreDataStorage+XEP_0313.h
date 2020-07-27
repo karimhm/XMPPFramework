@@ -1,4 +1,5 @@
 #import "XMPPRoomLightCoreDataStorage.h"
+#import "XMPPRoomLight.h"
 
 NS_ASSUME_NONNULL_BEGIN
 @interface XMPPRoomLightCoreDataStorage (XEP_0313)
