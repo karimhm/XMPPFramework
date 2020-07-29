@@ -121,8 +121,6 @@ let package = Package(
             exclude: [
                 "Info.plist",
                 "XMPPMockStream.m",
-                "XMPPvCardTests.m",
-                "XMPPRoomLightCoreDataStorageTests.m",
                 "XMPPBookmarksTests.swift",
                 "XMPPPushTests.swift",
                 "XMPPStanzaIdTests.swift",
