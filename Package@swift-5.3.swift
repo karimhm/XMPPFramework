@@ -120,8 +120,6 @@ let package = Package(
             path: "Xcode/Testing-Shared",
             exclude: [
                 "Info.plist",
-                "XMPPvCardTests.m",
-                "XMPPRoomLightCoreDataStorageTests.m",
                 "XMPPMockStream.m",
                 "XMPPBookmarksTests.swift",
                 "XMPPPushTests.swift",
