@@ -6,7 +6,7 @@ jobs:
       osx_image: xcode12.2
       script:
       # Remove the Xcode project so `xcodebuild` would be able to test the Swift PM project.
-      - rm *.xcodeproj
+      - rm -rf *.xcodeproj
       # Test the Swift PM project using `xcodebuild`.
       # The test is performed using `xcodebuild` rather than `swift test` due to this bug:
       # https://bugs.swift.org/browse/SR-13560
